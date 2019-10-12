@@ -1,0 +1,12 @@
+verify editable runes page at start - v
+nevigate to first result mobafire -v 
+move to foreground if minimized - v
+separate slow clicks from fast clicks -v 
+check if champion exist - v
+
+check if exist editable page 
+add change spells
+add different runes option
+scaleable by window size
+combobox of roles and champions
+
