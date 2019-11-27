@@ -9,4 +9,5 @@ add change spells
 add different runes option
 scaleable by window size
 combobox of roles and champions
-
+choosing role
+display favorite builds
